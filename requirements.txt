@@ -5,6 +5,7 @@ langchain-text-splitters
 langchain-huggingface
 langchain-chroma
 langchain-groq
+pysqlite3-binary
 pypdf
 chromadb
 torch  # Required for HuggingFaceEmbeddings
